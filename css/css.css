@@ -1,0 +1,18 @@
+i {
+  font-size: 30vh;
+}
+.vertical-center {
+  min-height: 100%; 
+  min-height: 100vh;
+
+  display: flex;
+  align-items: center;
+}
+
+#fTemp {
+  margin-top:5%;
+}
+
+#city {
+  margin-bottom: 5%;
+}
